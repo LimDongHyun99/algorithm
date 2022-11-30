@@ -31,7 +31,7 @@
 
 :paperclip: 22.12
 - 1일 [백준 10869. 사칙연산](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10869.%E2%80%85%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)
-
+- 1일 [백준 11382. 꼬마 정민](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11382.%E2%80%85%EA%BC%AC%EB%A7%88%E2%80%85%EC%A0%95%EB%AF%BC)
 
 
 
