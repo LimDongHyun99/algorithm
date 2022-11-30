@@ -1,13 +1,16 @@
-#Algorithm-Study
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimDongHyun99&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimDongHyun99&layout=compact)](https://github.com/LimDongHyun99/github-readme-stats)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kk3002)](https://solved.ac/kk3002)
 <img src="http://mazandi.herokuapp.com/api?handle=kk3002&theme=warm"/>
 
+블로그 : https://nextmoveon.tistory.com/
+
+
+#Algorithm-Study
 
 #10월
 - 31일 [백준 11654. 아스키 코드](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11654.%E2%80%85%EC%95%84%EC%8A%A4%ED%82%A4%E2%80%85%EC%BD%94%EB%93%9C)
+
 
 #11월
 - 28일 [백준 2557. Hello World](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2557.%E2%80%85Hello%E2%80%85World)
