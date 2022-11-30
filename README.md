@@ -1,5 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimDongHyun99&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimDongHyun99&layout=compact)](https://github.com/LimDongHyun99/github-readme-stats)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimDongHyun99&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimDongHyun99&layout=compact)](https://github.com/LimDongHyun99/github-readme-stats) -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kk3002)](https://solved.ac/kk3002)
 <img src="http://mazandi.herokuapp.com/api?handle=kk3002&theme=warm"/>
 
