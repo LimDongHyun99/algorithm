@@ -37,7 +37,7 @@
 - 1일 [백준 14681. 사분면 고르기](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/14681.%E2%80%85%EC%82%AC%EB%B6%84%EB%A9%B4%E2%80%85%EA%B3%A0%EB%A5%B4%EA%B8%B0)
 - 1일 [백준 2753. 윤년](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2753.%E2%80%85%EC%9C%A4%EB%85%84)
 - 2일 [백준 2420. 사파리월드](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2420.%E2%80%85%EC%82%AC%ED%8C%8C%EB%A6%AC%EC%9B%94%EB%93%9C)
-
+- 2일 [백준 2741. N 찍기](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2741.%E2%80%85N%E2%80%85%EC%B0%8D%EA%B8%B0)
 
 
 
