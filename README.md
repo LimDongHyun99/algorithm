@@ -41,7 +41,7 @@
 - 2일 [백준 10872. 팩토리얼](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10872.%E2%80%85%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC)
 - 2일 [백준 10950. A + B - 3](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10950.%E2%80%85A%EF%BC%8BB%E2%80%85%EF%BC%8D%E2%80%853)
 - 2일 [백준 10952. A + B - 5](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10952.%E2%80%85A%EF%BC%8BB%E2%80%85%EF%BC%8D%E2%80%855)
-
+- 2일 [백준 2558. A + B - 2](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2558.%E2%80%85A%EF%BC%8BB%E2%80%85%EF%BC%8D%E2%80%852)
 
 
 
