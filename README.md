@@ -46,7 +46,7 @@
 - 2일 [백준 2739. 구구단](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2739.%E2%80%85%EA%B5%AC%EA%B5%AC%EB%8B%A8)
 - 2일 [프로그래머스 lv0.120803. 두 수의 차](https://github.com/LimDongHyun99/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120803.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%EC%B0%A8)
 - 2일 [백준 11718. 그대로 출력하기](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11718.%E2%80%85%EA%B7%B8%EB%8C%80%EB%A1%9C%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
-
+- 3일 [백준 15552. 빠른 A + B](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/15552.%E2%80%85%EB%B9%A0%EB%A5%B8%E2%80%85A%EF%BC%8BB)
 
 <br><br><br><br><br><br><br><br><br>
 
