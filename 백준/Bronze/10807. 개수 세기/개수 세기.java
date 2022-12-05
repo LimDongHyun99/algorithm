@@ -11,6 +11,7 @@ public class Main {
             list[i] = sc.nextInt();
         }
         int v = sc.nextInt();
+        sc.close();
 
         for (int j = 0; j < list.length; j++) {
             if(list[j] == v)
