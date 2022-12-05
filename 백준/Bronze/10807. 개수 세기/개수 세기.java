@@ -4,17 +4,17 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        int list[] = new int[n];
+        int arr[] = new int[n];
         int count = 0;
 
         for (int i = 0; i < n; i++) {
-            list[i] = sc.nextInt();
+            arr[i] = sc.nextInt();
         }
         int v = sc.nextInt();
         sc.close();
 
-        for (int j = 0; j < list.length; j++) {
-            if(list[j] == v)
+        for (int j = 0; j < arr.length; j++) {
+            if(arr[j] == v)
                 count++;
         }
         System.out.println(count);
