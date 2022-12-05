@@ -16,7 +16,7 @@ public class Main {
         for (int j = 0; j < arr.length; j++) {
             if(arr[j] == v)
                 count++;
-        }
+        } 
         System.out.println(count);
     }
 }
