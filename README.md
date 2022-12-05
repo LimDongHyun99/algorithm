@@ -48,6 +48,7 @@
 - 2일 [백준 11718. 그대로 출력하기](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11718.%E2%80%85%EA%B7%B8%EB%8C%80%EB%A1%9C%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
 - 3일 [백준 15552. 빠른 A + B](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/15552.%E2%80%85%EB%B9%A0%EB%A5%B8%E2%80%85A%EF%BC%8BB)
 - 4일 [백준 2438. 별찍기 - 1](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2438.%E2%80%85%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0%E2%80%85%EF%BC%8D%E2%80%851)
+- 5일 [백준 10807. 개수 세기](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10807.%E2%80%85%EA%B0%9C%EC%88%98%E2%80%85%EC%84%B8%EA%B8%B0)
 
 
 
