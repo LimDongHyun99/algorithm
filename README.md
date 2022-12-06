@@ -53,6 +53,11 @@
 - 5일 [백준 2738. 행렬 덧셈](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2738.%E2%80%85%ED%96%89%EB%A0%AC%E2%80%85%EB%8D%A7%EC%85%88)
 - 6일 [백준 5597. 과제 안 내신분..?](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/5597.%E2%80%85%EA%B3%BC%EC%A0%9C%E2%80%85%EC%95%88%E2%80%85%EB%82%B4%EC%8B%A0%E2%80%85%EB%B6%84%EF%BC%8E%EF%BC%8E%EF%BC%9F)
 - 6일 [백준 2743. 단어 길이 재기](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2743.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EA%B8%B8%EC%9D%B4%E2%80%85%EC%9E%AC%EA%B8%B0)
+- 6일 [백준 2744. 대소문자 바꾸기](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2744.%E2%80%85%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90%E2%80%85%EB%B0%94%EA%BE%B8%EA%B8%B0)
+
+
+
+
 
 
 
