@@ -58,7 +58,7 @@
 - 7일 [백준 10809. 알파벳 찾기](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10809.%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3%E2%80%85%EC%B0%BE%EA%B8%B0)
 - 7일 [백준 2754. 학점계산](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2754.%E2%80%85%ED%95%99%EC%A0%90%EA%B3%84%EC%82%B0)
 - 7일 [백준 9086. 문자열](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/9086.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4)
-
+- 7일 [백준 5524. 입실 관리](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/5524.%E2%80%85%EC%9E%85%EC%8B%A4%E2%80%85%EA%B4%80%EB%A6%AC)
 
 
 
