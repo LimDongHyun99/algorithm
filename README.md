@@ -61,7 +61,7 @@
 - 7일 [백준 5524. 입실 관리](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/5524.%E2%80%85%EC%9E%85%EC%8B%A4%E2%80%85%EA%B4%80%EB%A6%AC)
 - 7일 [백준 10818. 최소, 최대](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10818.%E2%80%85%EC%B5%9C%EC%86%8C%EF%BC%8C%E2%80%85%EC%B5%9C%EB%8C%80)
 - 8일 [백준 15964. 이상한 기호](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/15964.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%EA%B8%B0%ED%98%B8)
-
+- 8일 [백준 2475. 검증수](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2475.%E2%80%85%EA%B2%80%EC%A6%9D%EC%88%98)
 
 
 
