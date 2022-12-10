@@ -65,8 +65,8 @@
 - 9일 [백준 2562. 최갯값](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2562.%E2%80%85%EC%B5%9C%EB%8C%93%EA%B0%92)
 - 9일 [백준 2675. 문자열 반복](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2675.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%B0%98%EB%B3%B5)
 - 9일 [백준 8958. OX퀴즈](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/8958.%E2%80%85OX%ED%80%B4%EC%A6%88)
-
-
+- 10일 [백준 11720. 숫자의 합](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11720.%E2%80%85%EC%88%AB%EC%9E%90%EC%9D%98%E2%80%85%ED%95%A9)
+- 10일 [백준 2920. 음계](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2920.%E2%80%85%EC%9D%8C%EA%B3%84)
 
 
 
