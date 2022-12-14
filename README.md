@@ -72,7 +72,8 @@
 - 12일 [백준 2439. 별찍기 - 2](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2439.%E2%80%85%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0%E2%80%85%EF%BC%8D%E2%80%852)
 - 12일 [백준 2577. 숫자의 개수](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2577.%E2%80%85%EC%88%AB%EC%9E%90%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98)
 - 13일 [백준 2908 상수](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2908.%E2%80%85%EC%83%81%EC%88%98)
-
+- 14일 [백준 1157. 단어공부](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1157.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EA%B3%B5%EB%B6%80)
+- 14일 [백준 2884. 알람시계](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2884.%E2%80%85%EC%95%8C%EB%9E%8C%E2%80%85%EC%8B%9C%EA%B3%84)
 
 
 
