@@ -79,6 +79,9 @@
 - 17일 [백준 4101. 크냐?](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/4101.%E2%80%85%ED%81%AC%EB%83%90%EF%BC%9F)
 - 18일 [백준 8393. 합](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/8393.%E2%80%85%ED%95%A9)
 - 19일 [백준 2338. 긴자리 계산](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2338.%E2%80%85%EA%B8%B4%EC%9E%90%EB%A6%AC%E2%80%85%EA%B3%84%EC%82%B0)
+- 20일 [백준 5596. 시험 점수](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/5596.%E2%80%85%EC%8B%9C%ED%97%98%E2%80%85%EC%A0%90%EC%88%98)
+
+
 
 
 
