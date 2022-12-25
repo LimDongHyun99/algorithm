@@ -84,7 +84,7 @@
 - 22일 [백준 4999. 아!](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/4999.%E2%80%85%EC%95%84%EF%BC%81)
 - 23일 [백준 10989. 수 정렬하기 3](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10989.%E2%80%85%EC%88%98%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%E2%80%853)
 - 24일 [백준 2441. 별찍기](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2441.%E2%80%85%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0%E2%80%85%EF%BC%8D%E2%80%854)
-
+- 25일 [백준 2845. 파티가 끝나고 난 뒤](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2845.%E2%80%85%ED%8C%8C%ED%8B%B0%EA%B0%80%E2%80%85%EB%81%9D%EB%82%98%EA%B3%A0%E2%80%85%EB%82%9C%E2%80%85%EB%92%A4)
 
 
 
