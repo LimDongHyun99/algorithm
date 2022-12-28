@@ -87,7 +87,7 @@
 - 25일 [백준 2845. 파티가 끝나고 난 뒤](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2845.%E2%80%85%ED%8C%8C%ED%8B%B0%EA%B0%80%E2%80%85%EB%81%9D%EB%82%98%EA%B3%A0%E2%80%85%EB%82%9C%E2%80%85%EB%92%A4)
 - 26일 [백준 5338. 마이크로소프트 로고](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/5338.%E2%80%85%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8%E2%80%85%EB%A1%9C%EA%B3%A0)
 - 27일 [백준 1550. 16진수](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1550.%E2%80%8516%EC%A7%84%EC%88%98)
-
+- 28일 [백준 2752. 세수정렬](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2752.%E2%80%85%EC%84%B8%EC%88%98%EC%A0%95%EB%A0%AC)
 
 
 
