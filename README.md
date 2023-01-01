@@ -90,8 +90,10 @@
 - 28일 [백준 2752. 세수정렬](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2752.%E2%80%85%EC%84%B8%EC%88%98%EC%A0%95%EB%A0%AC)
 - 29일 [백준 10039. 평균 점수](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10039.%E2%80%85%ED%8F%89%EA%B7%A0%E2%80%85%EC%A0%90%EC%88%98)
 - 30일 [백준 2083. 럭비 클럽](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2083.%E2%80%85%EB%9F%AD%EB%B9%84%E2%80%85%ED%81%B4%EB%9F%BD)
-- 31일 [ 백준 5717. 상근이의 친구들](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/5717.%E2%80%85%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%E2%80%85%EC%B9%9C%EA%B5%AC%EB%93%A4)
+- 31일 [백준 5717. 상근이의 친구들](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/5717.%E2%80%85%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%E2%80%85%EC%B9%9C%EA%B5%AC%EB%93%A4)
 
+:paperclip: 23.01
+- 1일 [백준 5337. 웰컴](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/5337.%E2%80%85%EC%9B%B0%EC%BB%B4)
 
 
 
