@@ -94,6 +94,13 @@
 
 :paperclip: 23.01
 - 1일 [백준 5337. 웰컴](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/5337.%E2%80%85%EC%9B%B0%EC%BB%B4)
+- 2일 [백준 5522. 카드 게임](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/5522.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EA%B2%8C%EC%9E%84)
+
+
+
+
+
+
 
 
 
