@@ -95,7 +95,7 @@
 :paperclip: 23.01
 - 1일 [백준 5337. 웰컴](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/5337.%E2%80%85%EC%9B%B0%EC%BB%B4)
 - 2일 [백준 5522. 카드 게임](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/5522.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EA%B2%8C%EC%9E%84)
-
+- 3일 [백준 14645. 와이버스 부릉부릉](https://github.com/LimDongHyun99/algorithm/blob/main/%EB%B0%B1%EC%A4%80/Bronze/14645.%E2%80%85%EC%99%80%EC%9D%B4%EB%B2%84%EC%8A%A4%E2%80%85%EB%B6%80%EB%A6%89%EB%B6%80%EB%A6%89/%EC%99%80%EC%9D%B4%EB%B2%84%EC%8A%A4%E2%80%85%EB%B6%80%EB%A6%89%EB%B6%80%EB%A6%89.java)
 
 
 
