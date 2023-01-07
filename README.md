@@ -101,7 +101,7 @@
 - 5일 SQL [프로그래머스 144853. 모든 레코드 조회하기](https://github.com/LimDongHyun99/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/59034.%E2%80%85%EB%AA%A8%EB%93%A0%E2%80%85%EB%A0%88%EC%BD%94%EB%93%9C%E2%80%85%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0)
 - 5일 [백준 2935. 소음](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2935.%E2%80%85%EC%86%8C%EC%9D%8C)
 - 6일 [백준 2953. 나는 요리사다](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2953.%E2%80%85%EB%82%98%EB%8A%94%E2%80%85%EC%9A%94%EB%A6%AC%EC%82%AC%EB%8B%A4)
-
+- 7일 [백준 10101. 삼각형 외우기](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10101.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95%E2%80%85%EC%99%B8%EC%9A%B0%EA%B8%B0)
 
 
 
