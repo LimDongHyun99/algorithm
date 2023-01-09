@@ -107,7 +107,7 @@
 - 7일 SQL [프로그래머스 133024. 인기있는 아이스크림](https://github.com/LimDongHyun99/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/133024.%E2%80%85%EC%9D%B8%EA%B8%B0%EC%9E%88%EB%8A%94%E2%80%85%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC)
 - 7일 SQL [프로그래머스 133025. 과일로 만든 아이스크림 고르기](https://github.com/LimDongHyun99/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/133025.%E2%80%85%EA%B3%BC%EC%9D%BC%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%A0%E2%80%85%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%E2%80%85%EA%B3%A0%EB%A5%B4%EA%B8%B0)
 - 8일 [백준 9316. Hello Judge](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/9316.%E2%80%85Hello%E2%80%85Judge)
-
+- 9일 [백준 2914. 저작권](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2914.%E2%80%85%EC%A0%80%EC%9E%91%EA%B6%8C)
 
 
 
