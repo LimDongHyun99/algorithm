@@ -110,6 +110,7 @@
 - 9일 [백준 2914. 저작권](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2914.%E2%80%85%EC%A0%80%EC%9E%91%EA%B6%8C)
 - 9일 SQL [프로그래머스 131118. 서울에 위치한 식당 목록 출력하기](https://github.com/LimDongHyun99/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv4/131118.%E2%80%85%EC%84%9C%EC%9A%B8%EC%97%90%E2%80%85%EC%9C%84%EC%B9%98%ED%95%9C%E2%80%85%EC%8B%9D%EB%8B%B9%E2%80%85%EB%AA%A9%EB%A1%9D%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
 - 10일 [백준 2588. 곱셈](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2588.%E2%80%85%EA%B3%B1%EC%85%88)
+- 11일 [백준 2875. 대회 or 인턴](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2875.%E2%80%85%EB%8C%80%ED%9A%8C%E2%80%85or%E2%80%85%EC%9D%B8%ED%84%B4)
 
 
 
