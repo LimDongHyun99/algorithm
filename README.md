@@ -113,7 +113,7 @@
 - 11일 [백준 2875. 대회 or 인턴](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2875.%E2%80%85%EB%8C%80%ED%9A%8C%E2%80%85or%E2%80%85%EC%9D%B8%ED%84%B4)
 - 12일 [백준 10987. 모음의 개수](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10987.%E2%80%85%EB%AA%A8%EC%9D%8C%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98)
 - 13일 [백준 1264. 모음의 개수](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1264.%E2%80%85%EB%AA%A8%EC%9D%8C%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98)
-
+- 14일 [백준 10757. 큰 수 A + B](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10757.%E2%80%85%ED%81%B0%E2%80%85%EC%88%98%E2%80%85A%EF%BC%8BB)
 
 
 
