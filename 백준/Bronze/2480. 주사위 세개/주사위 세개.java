@@ -12,7 +12,9 @@ public class Main {
             System.out.print(10000+(a*1000));
         } else if(a == b || a == c) {
             System.out.print(1000+(a*100));
-        } else if(b == c) {
+        } else if(b == a || b == c) {
+            System.out.print(1000+(b*100));
+        } else if(c == a || c == b) {
             System.out.print(1000+(b*100));
         } else {
             System.out.print((Math.max(a, Math.max(b, c))*100));
