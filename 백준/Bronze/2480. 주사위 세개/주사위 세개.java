@@ -15,7 +15,7 @@ public class Main {
         } else if(b == a || b == c) {
             System.out.print(1000+(b*100));
         } else if(c == a || c == b) {
-            System.out.print(1000+(b*100));
+            System.out.print(1000+(c*100));
         } else {
             System.out.print((Math.max(a, Math.max(b, c))*100));
         }
