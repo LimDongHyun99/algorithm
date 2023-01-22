@@ -8,7 +8,7 @@ public class Main {
         int b = sc.nextInt();
         int c = sc.nextInt();
         sc.close();
-        if(a == b && a == c && b == c) {
+        if(a == b && b == c) {
             System.out.print(10000+(a*1000));
         } else if(a == b || a == c) {
             System.out.print(1000+(a*100));
