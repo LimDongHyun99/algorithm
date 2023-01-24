@@ -116,13 +116,14 @@
 - 14일 [백준 10757. 큰 수 A + B](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10757.%E2%80%85%ED%81%B0%E2%80%85%EC%88%98%E2%80%85A%EF%BC%8BB)
 - 15일 [백준 1712. 손익분기점](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1712.%E2%80%85%EC%86%90%EC%9D%B5%EB%B6%84%EA%B8%B0%EC%A0%90)
 - 16일 [백준 11365. !밀비 급일](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11365.%E2%80%85%EF%BC%81%EB%B0%80%EB%B9%84%E2%80%85%EA%B8%89%EC%9D%BC)
-- 17일 [백준 10718. We love kriii](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10718.%E2%80%85We%E2%80%85love%E2%80%85kriii)
-- 18일 [백준 10768. 특별한 날](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10768.%E2%80%85%ED%8A%B9%EB%B3%84%ED%95%9C%E2%80%85%EB%82%A0)
-- 19일 [백준 3046. R2](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/3046.%E2%80%85R2)
-- 20일 [백준 1085. 직사각형에서 탈출](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1085.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%97%90%EC%84%9C%E2%80%85%ED%83%88%EC%B6%9C)
-- 21일 [백준 2480. 주사위 세개](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2480.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EC%84%B8%EA%B0%9C)
-- 22일 [백준 4470. 줄번호](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/4470.%E2%80%85%EC%A4%84%EB%B2%88%ED%98%B8)
-
+- 17일 [백준 14489. 치킨 두 마리 (...)](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/14489.%E2%80%85%EC%B9%98%ED%82%A8%E2%80%85%EB%91%90%E2%80%85%EB%A7%88%EB%A6%AC%E2%80%85%EF%BC%88%EF%BC%8E%EF%BC%8E%EF%BC%8E%EF%BC%89)
+- 18일 [백준 10718. We love kriii](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10718.%E2%80%85We%E2%80%85love%E2%80%85kriii)
+- 19일 [백준 10768. 특별한 날](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10768.%E2%80%85%ED%8A%B9%EB%B3%84%ED%95%9C%E2%80%85%EB%82%A0)
+- 20일 [백준 3046. R2](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/3046.%E2%80%85R2)
+- 21일 [백준 1085. 직사각형에서 탈출](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1085.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%97%90%EC%84%9C%E2%80%85%ED%83%88%EC%B6%9C)
+- 22일 [백준 2480. 주사위 세개](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2480.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EC%84%B8%EA%B0%9C)
+- 23일 [백준 4470. 줄번호](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/4470.%E2%80%85%EC%A4%84%EB%B2%88%ED%98%B8)
+- 24일 [백준 5543. 상근날드](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/5543.%E2%80%85%EC%83%81%EA%B7%BC%EB%82%A0%EB%93%9C)
 
 
 
