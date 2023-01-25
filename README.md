@@ -125,6 +125,32 @@
 - 23일 [백준 4470. 줄번호](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/4470.%E2%80%85%EC%A4%84%EB%B2%88%ED%98%B8)
 - 24일 [백준 5543. 상근날드](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/5543.%E2%80%85%EC%83%81%EA%B7%BC%EB%82%A0%EB%93%9C)
 - 25일 [백준 5613. 계산기 프로그램](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/5613.%E2%80%85%EA%B3%84%EC%82%B0%EA%B8%B0%E2%80%85%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)
+- 25일 SQL [프로그래머스 151136. 평균 일일 대여 요금 구하기](https://github.com/LimDongHyun99/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/151136.%E2%80%85%ED%8F%89%EA%B7%A0%E2%80%85%EC%9D%BC%EC%9D%BC%E2%80%85%EB%8C%80%EC%97%AC%E2%80%85%EC%9A%94%EA%B8%88%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)
+- 25일 SQL [프로그래머스 132201. 12세이하인 여자 환자 목록 출력하기](https://github.com/LimDongHyun99/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/132201.%E2%80%8512%EC%84%B8%E2%80%85%EC%9D%B4%ED%95%98%EC%9D%B8%E2%80%85%EC%97%AC%EC%9E%90%E2%80%85%ED%99%98%EC%9E%90%E2%80%85%EB%AA%A9%EB%A1%9D%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0#unrated-12%EC%84%B8-%EC%9D%B4%ED%95%98%EC%9D%B8-%EC%97%AC%EC%9E%90-%ED%99%98%EC%9E%90-%EB%AA%A9%EB%A1%9D-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0---132201)
+- 25일 SQL [프로그래머스 131112. 강원도에 위치한 생산공장 목록 출력하기](https://github.com/LimDongHyun99/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/131112.%E2%80%85%EA%B0%95%EC%9B%90%EB%8F%84%EC%97%90%E2%80%85%EC%9C%84%EC%B9%98%ED%95%9C%E2%80%85%EC%83%9D%EC%82%B0%EA%B3%B5%EC%9E%A5%E2%80%85%EB%AA%A9%EB%A1%9D%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
+- 25일 SQL [프로그래머스 59035. 역순 정렬하기](https://github.com/LimDongHyun99/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/59035.%E2%80%85%EC%97%AD%EC%88%9C%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
+- 25일 SQL [프로그래머스 59037. 어린 동물 찾기](https://github.com/LimDongHyun99/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/59037.%E2%80%85%EC%96%B4%EB%A6%B0%E2%80%85%EB%8F%99%EB%AC%BC%E2%80%85%EC%B0%BE%EA%B8%B0)
+- 25일 SQL [프로그래머스 59036. 아픈 동물 찾기](https://github.com/LimDongHyun99/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1)
+- 25일 SQL [프로그래머스 59404. 여러 기준으로 정렬하기](https://github.com/LimDongHyun99/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/59404.%E2%80%85%EC%97%AC%EB%9F%AC%E2%80%85%EA%B8%B0%EC%A4%80%EC%9C%BC%EB%A1%9C%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
+- 25일 SQL [프로그래머스 59403. 동물의 아이디와 이름](https://github.com/LimDongHyun99/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/59403.%E2%80%85%EB%8F%99%EB%AC%BC%EC%9D%98%E2%80%85%EC%95%84%EC%9D%B4%EB%94%94%EC%99%80%E2%80%85%EC%9D%B4%EB%A6%84)
+- 25일 SQL [프로그래머스 131535. 조건에 맞는 회원수 구하기](https://github.com/LimDongHyun99/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/131535.%E2%80%85%EC%A1%B0%EA%B1%B4%EC%97%90%E2%80%85%EB%A7%9E%EB%8A%94%E2%80%85%ED%9A%8C%EC%9B%90%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)
+- 25일 SQL [프로그래머스 59405. 상위 n개 레코드](https://github.com/LimDongHyun99/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/59405.%E2%80%85%EC%83%81%EC%9C%84%E2%80%85n%EA%B0%9C%E2%80%85%EB%A0%88%EC%BD%94%EB%93%9C)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
