@@ -139,9 +139,9 @@
 - 27일 [백준 10808. 알파벳 개수](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10808.%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3%E2%80%85%EA%B0%9C%EC%88%98)
 - 28일 [백준 6159. 코스튬 파티](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/6159.%E2%80%85%EC%BD%94%EC%8A%A4%ED%8A%AC%E2%80%85%ED%8C%8C%ED%8B%B0)
 - 29일 [백준 5565. 영수증](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/5565.%E2%80%85%EC%98%81%EC%88%98%EC%A6%9D)
-
-
-
+- 31일 SQL [프로그래머스 131536. 재구매가 일어난 상품과 회원 리스트 구하기](https://github.com/LimDongHyun99/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/131536.%E2%80%85%EC%9E%AC%EA%B5%AC%EB%A7%A4%EA%B0%80%E2%80%85%EC%9D%BC%EC%96%B4%EB%82%9C%E2%80%85%EC%83%81%ED%92%88%EA%B3%BC%E2%80%85%ED%9A%8C%EC%9B%90%E2%80%85%EB%A6%AC%EC%8A%A4%ED%8A%B8%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)
+- 31일 SQL [프로그래머스 131537. 오프라인/온라인 판매 데이터 통합하기](https://github.com/LimDongHyun99/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv4/131537.%E2%80%85%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8%EF%BC%8F%EC%98%A8%EB%9D%BC%EC%9D%B8%E2%80%85%ED%8C%90%EB%A7%A4%E2%80%85%EB%8D%B0%EC%9D%B4%ED%84%B0%E2%80%85%ED%86%B5%ED%95%A9%ED%95%98%EA%B8%B0)
+- 31일 [백준 1076. 저항](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1076.%E2%80%85%EC%A0%80%ED%95%AD)
 
 
 
