@@ -146,6 +146,7 @@
 
 :paperclip: 23.02
 - 1일 [백준 2530. 인공지능시계](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2530.%E2%80%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%E2%80%85%EC%8B%9C%EA%B3%84)
+- 2일 [백준 2010. 플러그](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2010.%E2%80%85%ED%94%8C%EB%9F%AC%EA%B7%B8)
 
 
 
