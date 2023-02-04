@@ -148,7 +148,7 @@
 - 1일 [백준 2530. 인공지능시계](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2530.%E2%80%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%E2%80%85%EC%8B%9C%EA%B3%84)
 - 2일 [백준 2010. 플러그](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2010.%E2%80%85%ED%94%8C%EB%9F%AC%EA%B7%B8)
 - 3일 [백준 3029. 경고](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/3029.%E2%80%85%EA%B2%BD%EA%B3%A0)
-
+- 4일 [백준 4458. 첫 글자를 대문자로](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/4458.%E2%80%85%EC%B2%AB%E2%80%85%EA%B8%80%EC%9E%90%EB%A5%BC%E2%80%85%EB%8C%80%EB%AC%B8%EC%9E%90%EB%A1%9C)
 
 
 
