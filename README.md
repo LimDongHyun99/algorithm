@@ -158,7 +158,7 @@
 - 11일 [백준 1371. 가장 많은 글자](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1371.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EB%A7%8E%EC%9D%80%E2%80%85%EA%B8%80%EC%9E%90)
 - 12일 [백준 10430. 나머지](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10430.%E2%80%85%EB%82%98%EB%A8%B8%EC%A7%80)
 - 13일 [백준 19944. 뉴비의 기준은 뭘까](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/19944.%E2%80%85%EB%89%B4%EB%B9%84%EC%9D%98%E2%80%85%EA%B8%B0%EC%A4%80%EC%9D%80%E2%80%85%EB%AD%98%EA%B9%8C%EF%BC%9F)
-
+- 14일 [백준 11945. 뜨거운 붕어빵](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11945.%E2%80%85%EB%9C%A8%EA%B1%B0%EC%9A%B4%E2%80%85%EB%B6%95%EC%96%B4%EB%B9%B5)
 
 
 
