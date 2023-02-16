@@ -160,7 +160,7 @@
 - 13일 [백준 19944. 뉴비의 기준은 뭘까](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/19944.%E2%80%85%EB%89%B4%EB%B9%84%EC%9D%98%E2%80%85%EA%B8%B0%EC%A4%80%EC%9D%80%E2%80%85%EB%AD%98%EA%B9%8C%EF%BC%9F)
 - 14일 [백준 11945. 뜨거운 붕어빵](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11945.%E2%80%85%EB%9C%A8%EA%B1%B0%EC%9A%B4%E2%80%85%EB%B6%95%EC%96%B4%EB%B9%B5)
 - 15일 [백준 25314. 코딩은 체육과목 입니다](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/25314.%E2%80%85%EC%BD%94%EB%94%A9%EC%9D%80%E2%80%85%EC%B2%B4%EC%9C%A1%EA%B3%BC%EB%AA%A9%E2%80%85%EC%9E%85%EB%8B%88%EB%8B%A4)
-
+- 16일 [백준 2712. 미국 스타일](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2712.%E2%80%85%EB%AF%B8%EA%B5%AD%E2%80%85%EC%8A%A4%ED%83%80%EC%9D%BC)
 
 
 
