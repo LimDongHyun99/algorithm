@@ -166,7 +166,7 @@
 - 19일 [백준 2965. 캥거루 세마리](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2965.%E2%80%85%EC%BA%A5%EA%B1%B0%EB%A3%A8%E2%80%85%EC%84%B8%EB%A7%88%EB%A6%AC)
 - 20일 [백준 1547. 공](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1547.%E2%80%85%EA%B3%B5)
 - 21일 [백준 5339. 콜센터](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/5339.%E2%80%85%EC%BD%9C%EC%84%BC%ED%84%B0)
-
+- 22일 [백준 11942. 고려대는 사랑입니다](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11942.%E2%80%85%EA%B3%A0%EB%A0%A4%EB%8C%80%EB%8A%94%E2%80%85%EC%82%AC%EB%9E%91%EC%9E%85%EB%8B%88%EB%8B%A4)
 
 
 
