@@ -169,7 +169,7 @@
 - 22일 [백준 11942. 고려대는 사랑입니다](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11942.%E2%80%85%EA%B3%A0%EB%A0%A4%EB%8C%80%EB%8A%94%E2%80%85%EC%82%AC%EB%9E%91%EC%9E%85%EB%8B%88%EB%8B%A4)
 - 23일 [백준 5575. 타임 카드](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/5575.%E2%80%85%ED%83%80%EC%9E%84%E2%80%85%EC%B9%B4%EB%93%9C)
 - 24일 [백준 1026. 보물](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/1026.%E2%80%85%EB%B3%B4%EB%AC%BC)
-
+- 25일 [백준 1075. 나누기](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1075.%E2%80%85%EB%82%98%EB%88%84%EA%B8%B0)
 
 
 <br><br><br><br><br><br><br><br><br>
