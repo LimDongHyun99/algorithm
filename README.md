@@ -171,9 +171,7 @@
 - 24일 [백준 1026. 보물](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/1026.%E2%80%85%EB%B3%B4%EB%AC%BC)
 - 25일 [백준 1075. 나누기](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1075.%E2%80%85%EB%82%98%EB%88%84%EA%B8%B0)
 - 26일 [백준 1247. 부호](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1247.%E2%80%85%EB%B6%80%ED%98%B8)
-
-
-
+- 27일 [백준 1267. 핸드폰 요금](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1267.%E2%80%85%ED%95%B8%EB%93%9C%ED%8F%B0%E2%80%85%EC%9A%94%EA%B8%88)
 
 <br><br><br><br><br><br><br><br><br>
 
