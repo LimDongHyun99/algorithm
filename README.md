@@ -180,7 +180,7 @@
 - 2일 [백준 9093. 단어 뒤집기](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/9093.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0)
 - 3일 [백준 1292. TV 크기](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1297.%E2%80%85TV%E2%80%85%ED%81%AC%EA%B8%B0)
 - 4일 [백준 2204. 도비의 난독증 테스트](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2204.%E2%80%85%EB%8F%84%EB%B9%84%EC%9D%98%E2%80%85%EB%82%9C%EB%8F%85%EC%A6%9D%E2%80%85%ED%85%8C%EC%8A%A4%ED%8A%B8)
-
+- 5일 [백준 2525. 오븐 시계](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2525.%E2%80%85%EC%98%A4%EB%B8%90%E2%80%85%EC%8B%9C%EA%B3%84)
 
 
 
