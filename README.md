@@ -183,7 +183,7 @@
 - 5일 [백준 2525. 오븐 시계](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2525.%E2%80%85%EC%98%A4%EB%B8%90%E2%80%85%EC%8B%9C%EA%B3%84)
 - 6일 [백준 11948. 과목 선택]
 - 6일 [백준 5532. 방학 숙제]
-
+- 7일 [백준 14470. 전자레인지]
 
 
 
