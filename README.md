@@ -184,7 +184,7 @@
 - 6일 [백준 11948. 과목 선택]
 - 7일 [백준 14470. 전자레인지]
 - 8일 [백준 5532. 방학 숙제](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/5532.%E2%80%85%EB%B0%A9%ED%95%99%E2%80%85%EC%88%99%EC%A0%9C)
-
+- 9일 [백준 13866. 팀 나누기](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/13866.%E2%80%85%ED%8C%80%E2%80%85%EB%82%98%EB%88%84%EA%B8%B0)
 
 
 
