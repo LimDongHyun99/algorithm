@@ -181,8 +181,8 @@
 - 3일 [백준 1292. TV 크기](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1297.%E2%80%85TV%E2%80%85%ED%81%AC%EA%B8%B0)
 - 4일 [백준 2204. 도비의 난독증 테스트](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2204.%E2%80%85%EB%8F%84%EB%B9%84%EC%9D%98%E2%80%85%EB%82%9C%EB%8F%85%EC%A6%9D%E2%80%85%ED%85%8C%EC%8A%A4%ED%8A%B8)
 - 5일 [백준 2525. 오븐 시계](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2525.%E2%80%85%EC%98%A4%EB%B8%90%E2%80%85%EC%8B%9C%EA%B3%84)
-- 6일 [백준 11948. 과목 선택]
-- 7일 [백준 14470. 전자레인지]
+- 6일 [백준 11948. 과목 선택](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11948.%E2%80%85%EA%B3%BC%EB%AA%A9%EC%84%A0%ED%83%9D)
+- 7일 [백준 14470. 전자레인지](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/14470.%E2%80%85%EC%A0%84%EC%9E%90%EB%A0%88%EC%9D%B8%EC%A7%80)
 - 8일 [백준 5532. 방학 숙제](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/5532.%E2%80%85%EB%B0%A9%ED%95%99%E2%80%85%EC%88%99%EC%A0%9C)
 - 9일 [백준 13866. 팀 나누기](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/13866.%E2%80%85%ED%8C%80%E2%80%85%EB%82%98%EB%88%84%EA%B8%B0)
 
