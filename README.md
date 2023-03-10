@@ -185,6 +185,9 @@
 - 7일 [백준 14470. 전자레인지](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/14470.%E2%80%85%EC%A0%84%EC%9E%90%EB%A0%88%EC%9D%B8%EC%A7%80)
 - 8일 [백준 5532. 방학 숙제](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/5532.%E2%80%85%EB%B0%A9%ED%95%99%E2%80%85%EC%88%99%EC%A0%9C)
 - 9일 [백준 13866. 팀 나누기](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/13866.%E2%80%85%ED%8C%80%E2%80%85%EB%82%98%EB%88%84%EA%B8%B0)
+- 10일 [백준 14924. 폰 노이만과 파리](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/14924.%E2%80%85%ED%8F%B0%E2%80%85%EB%85%B8%EC%9D%B4%EB%A7%8C%EA%B3%BC%E2%80%85%ED%8C%8C%EB%A6%AC)
+
+
 
 
 
