@@ -197,7 +197,7 @@
 - 21일 [백준 2547. 사탕 선생 고창영](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2547.%E2%80%85%EC%82%AC%ED%83%95%E2%80%85%EC%84%A0%EC%83%9D%E2%80%85%EA%B3%A0%EC%B0%BD%EC%98%81)
 - 22일 [백준 3059.등장하지 않는 문자의 합](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Unrated/3059.%E2%80%85%EB%93%B1%EC%9E%A5%ED%95%98%EC%A7%80%E2%80%85%EC%95%8A%EB%8A%94%E2%80%85%EB%AC%B8%EC%9E%90%EC%9D%98%E2%80%85%ED%95%A9)
 - 23일 [백준 15873. 공백 없는 A+B](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Unrated/15873.%E2%80%85%EA%B3%B5%EB%B0%B1%E2%80%85%EC%97%86%EB%8A%94%E2%80%85A%EF%BC%8BB)
-
+- 24일 SQL [프로그래머스 164673. 조건에 부합하는 중고거래 댓글 조회하기](https://github.com/LimDongHyun99/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/164673.%E2%80%85%EC%A1%B0%EA%B1%B4%EC%97%90%E2%80%85%EB%B6%80%ED%95%A9%ED%95%98%EB%8A%94%E2%80%85%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98%E2%80%85%EB%8C%93%EA%B8%80%E2%80%85%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0)
 
 
 
