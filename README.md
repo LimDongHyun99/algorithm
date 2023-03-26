@@ -200,7 +200,7 @@
 - 24일 SQL [프로그래머스 164673. 조건에 부합하는 중고거래 댓글 조회하기](https://github.com/LimDongHyun99/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/164673.%E2%80%85%EC%A1%B0%EA%B1%B4%EC%97%90%E2%80%85%EB%B6%80%ED%95%A9%ED%95%98%EB%8A%94%E2%80%85%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98%E2%80%85%EB%8C%93%EA%B8%80%E2%80%85%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0)
 - 24일 [백준 23795. 사장님 도박은 재미로 하셔야 합니다](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Unrated/23795.%E2%80%85%EC%82%AC%EC%9E%A5%EB%8B%98%E2%80%85%EB%8F%84%EB%B0%95%EC%9D%80%E2%80%85%EC%9E%AC%EB%AF%B8%EB%A1%9C%E2%80%85%ED%95%98%EC%85%94%EC%95%BC%E2%80%85%ED%95%A9%EB%8B%88%EB%8B%A4#unrated-%EC%82%AC%EC%9E%A5%EB%8B%98-%EB%8F%84%EB%B0%95%EC%9D%80-%EC%9E%AC%EB%AF%B8%EB%A1%9C-%ED%95%98%EC%85%94%EC%95%BC-%ED%95%A9%EB%8B%88%EB%8B%A4---23795)
 - 25일 [백준 15000. CAPS](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Unrated/15000.%E2%80%85CAPS)
-
+- 26일 [백준 5357. Dedupe](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Unrated/5357.%E2%80%85Dedupe)
 
 
 
