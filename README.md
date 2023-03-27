@@ -201,7 +201,7 @@
 - 24일 [백준 23795. 사장님 도박은 재미로 하셔야 합니다](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Unrated/23795.%E2%80%85%EC%82%AC%EC%9E%A5%EB%8B%98%E2%80%85%EB%8F%84%EB%B0%95%EC%9D%80%E2%80%85%EC%9E%AC%EB%AF%B8%EB%A1%9C%E2%80%85%ED%95%98%EC%85%94%EC%95%BC%E2%80%85%ED%95%A9%EB%8B%88%EB%8B%A4#unrated-%EC%82%AC%EC%9E%A5%EB%8B%98-%EB%8F%84%EB%B0%95%EC%9D%80-%EC%9E%AC%EB%AF%B8%EB%A1%9C-%ED%95%98%EC%85%94%EC%95%BC-%ED%95%A9%EB%8B%88%EB%8B%A4---23795)
 - 25일 [백준 15000. CAPS](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Unrated/15000.%E2%80%85CAPS)
 - 26일 [백준 5357. Dedupe](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Unrated/5357.%E2%80%85Dedupe)
-
+- 27일 [백준 23825. SASA 모형을 만들어보자](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Unrated/23825.%E2%80%85SASA%E2%80%85%EB%AA%A8%ED%98%95%EC%9D%84%E2%80%85%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90)
 
 
 
