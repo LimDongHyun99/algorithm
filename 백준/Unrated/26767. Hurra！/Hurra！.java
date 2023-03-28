@@ -11,7 +11,7 @@ public class Main {
                                 System.out.println("Hurra!");
                         } else if (i % 11 == 0) { // 11의 배수가 참인 경우
                                 System.out.println("Super!");
-                        } else { // 입력값이 끝난 경우
+                        } else { // 그 외 것들은 숫자로 그대로 출력
                                 System.out.println(i);
                         }
                 }
