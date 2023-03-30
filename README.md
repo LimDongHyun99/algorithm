@@ -204,7 +204,7 @@
 - 27일 [백준 23825. SASA 모형을 만들어보자](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Unrated/23825.%E2%80%85SASA%E2%80%85%EB%AA%A8%ED%98%95%EC%9D%84%E2%80%85%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90)
 - 28일 [백준 26767. Hurra!](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Unrated/26767.%E2%80%85Hurra%EF%BC%81) 
 - 29일 [백준 4589. Gnome Sequencing](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Unrated/4589.%E2%80%85Gnome%E2%80%85Sequencing)
-
+- 30일 [백준 14928. 큰 수(BIG)](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Unrated/14928.%E2%80%85%ED%81%B0%E2%80%85%EC%88%98%E2%80%85%EF%BC%88BIG%EF%BC%89)
 
 
 
