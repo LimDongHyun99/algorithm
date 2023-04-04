@@ -209,7 +209,7 @@
 
 :paperclip: 23.04
 - 1일 [9654. 나부 함대 데이터](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Unrated/9654.%E2%80%85%EB%82%98%EB%B6%80%E2%80%85%ED%95%A8%EB%8C%80%E2%80%85%EB%8D%B0%EC%9D%B4%ED%84%B0)
-
+- 2일 [1038. 감소하는 수]
 
 
 
