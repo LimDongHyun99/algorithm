@@ -211,7 +211,7 @@
 - 1일 [9654. 나부 함대 데이터](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Unrated/9654.%E2%80%85%EB%82%98%EB%B6%80%E2%80%85%ED%95%A8%EB%8C%80%E2%80%85%EB%8D%B0%EC%9D%B4%ED%84%B0)
 - 2일 [1038. 감소하는 수](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Unrated/1038.%E2%80%85%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94%E2%80%85%EC%88%98)
 - 9일 [4714. Lunacy](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Unrated/4714.%E2%80%85Lunacy)
-
+- 10일 [16204. 카드 뽑기](https://github.com/LimDongHyun99/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Unrated/16204.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EB%BD%91%EA%B8%B0)
 
 
 
